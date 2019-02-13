@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>ChrisKolan</Authors>
+    <Company>ChrisKolan</Company>
+    <PackageLicenseUrl>https://spdx.org/licenses/MIT.html</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
